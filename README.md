@@ -9,9 +9,10 @@ git clone https://github.com/rachhen/fastify-todo-app.git
 
 cd fastify-todo-app
 
+yarn
+
 yarn husky install # To install husky
 
-yarn
 
 yarn dev
 
